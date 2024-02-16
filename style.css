@@ -1,0 +1,22 @@
+th,td{
+    padding: 10px;
+margin: 10px;
+}
+th{
+    background-color:pink;
+    color:blue;
+}
+button{
+    color:black;
+    background-color: rgb(184, 125, 101);
+    border-radius: 50%;
+}
+img{
+    width: 70px;
+    height: 100px;
+border-radius: 50%;
+border-color: brown;
+}
+td{
+    background-color: rgb(13, 194, 184);
+}
